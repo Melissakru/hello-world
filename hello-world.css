@@ -1,0 +1,24 @@
+/* Hello World CSS */
+
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body {
+  background: url("Map.jpg");
+  background-size: cover;
+  font-size: 16px;
+  height: 100vh; /* trick to make the "page" the full height */
+}
+
+p {
+    font-size: 15em;
+    color: #000000;
+    text-shadow: 9px 9px 12px #ffffff;
+    font-family: "American Typewriter", serif;
+    text-align: center;
+}
+
+img {
+  width: 65%;
+  height: auto;
+  margin: 30px;
+}
